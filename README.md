@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 
 💬 Ask me about Python, C#, Java, SQL, and automating workflows.
 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/klaudia-fanni-balog/)
+
 ⚡ Fun fact: I created an action-adventure RPG game in Unity as a university project!
